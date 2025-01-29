@@ -58,7 +58,7 @@ Self-taught software engineer with 6 years of expertise in building advanced web
 
 ## 🏆 Awards and Certifications
 - Winner of 2 categories in Celestia Space Bazaar hackathon (06/2024)
-- AI Devs - pair programming with AI
+- AI_devs & AI_devs 2
 - English C1 (EF Global)
 
 ---
