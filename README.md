@@ -1,4 +1,4 @@
-# Adam Leszczyński - Full-Stack Web3 Developer 👨‍💻
+# Full-Stack Web3 Developer 👨‍💻
 
 ## About Me 🚀
 
