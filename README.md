@@ -51,11 +51,10 @@ Self-taught software engineer with 6 years of expertise in building advanced web
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Custom VPS](https://img.shields.io/badge/Custom_VPS-232F3E?style=for-the-badge&logo=server&logoColor=white)
 
-### Testing & Tools
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Automation
 ![Make.com](https://img.shields.io/badge/Make.com-2D3748?style=for-the-badge&logo=make&logoColor=white)
-
+![Shortcuts](https://img.shields.io/badge/Shortcuts-000000?style=for-the-badge&logo=apple&logoColor=white)
+ 
 ## 🏆 Awards and Certifications
 - Winner of 2 categories in Celestia Space Bazaar hackathon (06/2024)
 - AI_devs & AI_devs 2
