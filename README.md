@@ -1,4 +1,4 @@
-# Full-Stack Web3 Developer 👨‍💻
+# Full-Stack Web3 Developer with expertise in automations, AI and RAG 👨‍💻
 
 ## About Me 🚀
 
