@@ -1,4 +1,4 @@
-# Full-Stack Web3 Developer with expertise in automations, AI and RAG 👨‍💻
+# 10x Full-Stack Web3 Developer & Context Engineer
 
 ## About Me 🚀
 
